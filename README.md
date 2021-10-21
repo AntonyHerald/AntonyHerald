@@ -1,9 +1,10 @@
 - 👋 Hi, I’m **Antony Herald I**
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ...
     - Embedded System & Microcontroller
     - IO communication protocol
     - Linux kernel & Device driver
     - IOT & Automotive
+    - Technical Senior Management (within the principles of Project/s Governance)
 - 🌱 I’m currently learning ...AWS, (I will get back to AI soon...)
 - 💞️ I’m looking to collaborate on ...Embedded domain
 - 👋 Pronouns: He/Him
