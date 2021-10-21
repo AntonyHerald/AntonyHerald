@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Antony Herald I
-- 👀 I’m interested in ... Embedded System, Linux Kernel, Device Driver, IO communication, IOT and Automotive
-- 🌱 I’m currently learning ...AWS
+- 👋 Hi, I’m **Antony Herald I**
+- 👀 I’m interested in ... 
+    - Embedded System & Microcontroller
+    - IO communication protocol
+    - Linux kernel & Device driver
+    - IOT & Automotive
+- 🌱 I’m currently learning ...AWS, (I will get back to AI soon...)
 - 💞️ I’m looking to collaborate on ...Embedded domain
+- 👋 Pronouns: He/Him
+- 👀 Fun fact: ... I'm half done w.r.t technology
 - 📫 How to reach me ... Ignatiusherald@gmail.com
 
 <!---
