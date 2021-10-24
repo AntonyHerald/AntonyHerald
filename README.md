@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Antony Herald I**
 - 👀 I’m interested in ...
-    - Embedded System & Microcontroller
+    - RTOS, Embedded System & Microcontroller
     - IO communication protocol
     - Linux kernel & Device driver
     - IOT & Automotive
