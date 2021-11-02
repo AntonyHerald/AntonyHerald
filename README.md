@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Antony Herald I**
 - 👀 I’m interested in ...
-    - C, C++ Application & Server side application Development or Test.
+    - C, C++ Application & Server side Development  or Test.
     - RTOS, Embedded System & Microcontroller
     - IO communication protocol
     - Linux kernel & Device driver
