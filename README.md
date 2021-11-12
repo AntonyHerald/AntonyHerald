@@ -4,7 +4,7 @@
     - RTOS, Embedded System & Microcontroller
     - IO communication protocol
     - Linux kernel & Device driver
-    - IOT & Automotive
+    - IOT, Automotive, MedicalElectronic & Mechatronics.
     - Technical Senior Management (within the principles of Project/s Governance)
 - 🌱 I’m currently learning ...AWS, (I will get back to AI soon...)
 - 💞️ I’m looking to collaborate on ...Embedded domain
