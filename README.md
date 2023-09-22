@@ -1,10 +1,10 @@
 
     👋 Hi, I’m Antony Herald I
-    👀 I’m interested in ...
-        C, C++ Application & Server side Development or Test.
+    👀 I'm an embedded enthusiast in ...
+        C, C++  & firmware development & test, 
         RTOS, Embedded System & Microcontroller
-        IO communication protocol
-        Linux kernel & Device driver
+        IO communication protocols 
+        Linux kernel and device driver
         IOT, Automotive, MedicalElectronic & Mechatronics.
         Technical Senior Management (within the principles of Project/s Governance)
     🌱 I’m currently learning ...AWS, (I will get back to AI soon...)
